@@ -1,8 +1,0 @@
-{
-    "modifier.superspeed.sprint.quicksilver_xmen": {
-        "sounds": [
-            "suit/super_speed_sprint_quicksilver_xmen"
-        ],
-        "category": "player"
-    }
-}
